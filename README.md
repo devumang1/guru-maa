@@ -1,2 +1,2 @@
-# guru-maa
-have questions for your life? We have answer.
+# ❔guru-maa
+Have questions for your life? We have answer.
